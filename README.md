@@ -1,4 +1,12 @@
-### Hi there 👋
+<h4 align="center">Hi there, I'm Tee 🈺</h4>
+<h3 align="center">Programmer || Cybersecurity Enthusiast || CTF Addict</h3>
+
+<p align="center">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/foreztgump.png" alt="THM_STAT"/>
+     <br/>
+    ⚡ Just try to be better today than I was yesterday, and be better tomorrow than I am today. ⚡
+</p>
+
 
 <!--
 **foreztgump/foreztgump** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

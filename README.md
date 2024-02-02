@@ -1,6 +1,4 @@
 <h4 align="center">Hello there, I'm Tee 🈺</h4>
-<h3 align="center">Programmer || Cybersecurity Enthusiast || CTF Addict</h3>
-
 <p align="center">
     <a href="https://tryhackme.com/p/foreztgump" target="_blank" rel="noopener noreferrer">
     <!-- <img src="https://tryhackme-badges.s3.amazonaws.com/foreztgump.png" alt="THM_STAT"/> -->
